@@ -1,0 +1,18 @@
+![](dartmouth.jpg){width="100%"}
+
+---
+title: "What I'm Reading"
+---
+
+2022 Books:
+
+|                                           |                             |                                                |
+|-------------------------------------------|-----------------------------|------------------------------------------------|
+| ![](books/beingmortal.jpg)                | ![](books/surveillance.jpg) | ![](books/desert.jpg)                          |
+| ![](books/theoverstory.jpg){width="1700"} | ![](books/uglytruth.jpg)    | ![](books/three-body-problem.jpg){width="182"} |
+| ![](books/ontheroad.jpg)                  |                             |                                                |
+|                                           |                             |                                                |
+|                                           |                             |                                                |
+|                                           |                             |                                                |
+|                                           |                             |                                                |
+|                                           |                             |                                                |

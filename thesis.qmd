@@ -1,0 +1,14 @@
+![](dartmouth.jpg){width="100%"}
+
+---
+title: "Undergraduate Honors Thesis"
+---
+
+As part of my undergraduate major - [Quantitative Social Sciences (QSS)](https://qss.dartmouth.edu/) - I wrote a culminating honors thesis examining groundwater well overdraft in California. Expanding on work I did as a Spatial Data Science intern for the Nature Conservancy in 2019, I was interested in the 6 million Californians who rely on wells that tap into groundwater below as their primary source of fresh water. As the water table in the state continues to lower, the risk of "overdraft" - or the wells going dry - increases for these residents.
+
+Thus, the thesis takes an econometrics approach to examining correlations between socioeconomic and demographic characteristics of California residents - and their risk of "overdraft." Data from the US Government, State governments, academic institutions, and nonprofits was scraped, cleaned, and examined using Python, R, and QGIS. A measure of overdraft was self-generated for this project, using well depth data and water table data after serious spatial interpolation took place.
+
+The thesis can be read [here](https://docs.google.com/document/d/1egQ44h7bOQRpSskoJicEUNaAT5bi_h3ORHLH2K7Tkok/edit?usp=sharing):
+
+
+![](thesis.png){width="100%"}

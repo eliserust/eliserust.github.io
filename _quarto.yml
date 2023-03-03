@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elise Rust"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: aboutme.qmd
+        text: About Me
+      - href: reading.qmd
+        text: Reading List
+      - href: thesis.qmd
+        text: Undergraduate Thesis
+      - href: https://gu-anly502.github.io/fall-2022-reddit-big-data-project-project-group-27/index.html
+        text: Reddit Sentiment Analysis
+      - href: cherry_blossoms.qmd
+        text: Cherry Blossoms
+      - href: fake_news.qmd
+        text: Fake News Detection
+      - href: https://erust.georgetown.domains/ANLY560/_site/
+        text: Climate Time Series Project
+      - href: nn.qmd
+        text: Neural Networks Project
+      - href: http://erust.georgetown.domains/ANLY501/Introduction.html
+        text: Climate ML Project
+      - href: covid.qmd
+        text: COVID-19 Vulnerabilities
+        
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
+body-header: |
+  ![](dartmouth.png)
+

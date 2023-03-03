@@ -1,0 +1,11 @@
+![](dartmouth.jpg){width="100%"}
+
+---
+title: "Fraudulent News Detection"
+---
+
+Code can be found [here:](https://github.com/eliserust/Fraudulent-Text-Detection)
+
+Poster:
+
+![](fake_news.png)

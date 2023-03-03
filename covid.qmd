@@ -1,0 +1,5 @@
+![](dartmouth.jpg){width="100%"}
+
+---
+title: "covid"
+---

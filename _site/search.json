@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elise Rust",
+    "section": "",
+    "text": "Currently a Data Science and Analytics master’s student at Georgetown University, far away from my home base of California.\nMy immediate academic interests are telling stories with data, especially as they pertain to the environment, public policy, and the endless world of text data.\nPrior to graduate school and my time in DC, I developed a love of climate work (plus skiing and climbing) at Dartmouth College.\nI’m currently looking for work in the climate space - trying to use my technical analysis, model building, and writing/presenting skills to make the world a better place.\nHere’s a resume\nCheck out some of my projects below!\n\nAbout Me\nReading List\nHonors Thesis - Groundwater\nReddit Sentiment Analysis\nPredicting Cherry Blossoms\nFraudulent News Detection\nClimate Change Time Series Projects\nNeural Networks\nClimate Change ML Projects\nCOVID-19 Vulnerabilities"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "So you want more information:\nI’m Elise Rust and I plan to finish my MS in Data Science from Georgetown in Spring 2023 after completing my undergrad in Economics and Data Science from Dartmouth College in 2021. Academically and professionally, my goal is to use data science to do good in the world - whether that’s addressing the climate crisis or identifying vulnerable communities for educational funding or investigating hate speech/fraudulent text on social media. Whether it’s using statistical analysis, machine learning, natural language processing, or spatial reasoning I find great joy in taking data science problems of all types through the entire data science lifecycle. I love being able to explore the data behind these problems in order to generate meaningful and defensible change - and delivering complex solutions in concise and accessible ways to move that needle is where my greatest strengths lie.\nOutside of Data Science I love being outside - skiing, biathlon, climbing, biking, backpacking, and roller blading, especially with friends, is the best part of life! Plus, I love a good book. \n\nFeel free to reach out if you have questions about any of this work or just wanna chat! \nEmail: eliserust@gmail.com"
+  },
+  {
+    "objectID": "thesis.html",
+    "href": "thesis.html",
+    "title": "Undergraduate Honors Thesis",
+    "section": "",
+    "text": "As part of my undergraduate major - Quantitative Social Sciences (QSS) - I wrote a culminating honors thesis examining groundwater well overdraft in California. Expanding on work I did as a Spatial Data Science intern for the Nature Conservancy in 2019, I was interested in the 6 million Californians who rely on wells that tap into groundwater below as their primary source of fresh water. As the water table in the state continues to lower, the risk of “overdraft” - or the wells going dry - increases for these residents.\nThus, the thesis takes an econometrics approach to examining correlations between socioeconomic and demographic characteristics of California residents - and their risk of “overdraft.” Data from the US Government, State governments, academic institutions, and nonprofits was scraped, cleaned, and examined using Python, R, and QGIS. A measure of overdraft was self-generated for this project, using well depth data and water table data after serious spatial interpolation took place.\nThe thesis can be read here:"
+  },
+  {
+    "objectID": "cherry_blossoms.html",
+    "href": "cherry_blossoms.html",
+    "title": "Predicting Bloom Date of Cherry Blossoms",
+    "section": "",
+    "text": "A team and I competed in George Mason University’s annual competition to predict the date of cherry blossom bloom in DC. Using statistical computing, decision trees, and econometrics in R, our poster is below."
+  },
+  {
+    "objectID": "fake_news.html",
+    "href": "fake_news.html",
+    "title": "Fraudulent News Detection",
+    "section": "",
+    "text": "Code can be found here:\nPoster:"
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "What I’m Reading",
+    "section": "",
+    "text": "2022 Books:"
+  }
+]

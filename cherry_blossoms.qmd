@@ -1,0 +1,11 @@
+![](dartmouth.jpg)
+
+---
+title: Predicting Bloom Date of Cherry Blossoms
+subtitle: Using regression and decision trees
+---
+
+A team and I competed in [George Mason University's annual competition](https://www.gmu.edu/news/2022-03/mason-cherry-blossom-predictions-play-statistics) to predict the date of cherry blossom bloom in DC. Using statistical computing, decision trees, and econometrics in R, our poster is below.<br> <br> <br>
+
+
+![](blossom_poster.png){width="150%"}
