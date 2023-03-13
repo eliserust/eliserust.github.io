@@ -15,6 +15,9 @@ I'm currently looking for work in the climate space - trying to use my technical
 
 Here's a [resume](https://docs.google.com/document/d/1MFYSplOitF6I4DpnSNfqjAgMBYPJxKB7_zJo1x6wu7o/edit?usp=sharing)
 
+[![](github.png)](https://github.com/eliserust){width="1%"}
+[![](linkedin.png)](https://www.linkedin.com/in/eliserust/)
+
 Check out some of my projects below!
 
 -   [About Me](aboutme.html)
