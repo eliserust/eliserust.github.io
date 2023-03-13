@@ -11,6 +11,55 @@
     "href": "index.html",
     "title": "Elise Rust",
     "section": "",
-    "text": "Currently a Data Science and Analytics master’s student at Georgetown University, far away from my home base of California.\nMy immediate academic interests are telling stories with data, especially as they pertain to the environment, public policy, and the endless world of text data.\nPrior to graduate school and my time in DC, I developed a love of climate work (plus skiing and climbing) at Dartmouth College.\nI’m currently looking for work in the climate space - trying to use my technical analysis, model building, and writing/presenting skills to make the world a better place.\nHere’s a resume\n \nCheck out some of my projects below!\n\nAbout Me\nReading List\nHonors Thesis - Groundwater\nReddit Sentiment Analysis\nPredicting Cherry Blossoms\nFraudulent News Detection\nClimate Change Time Series Projects\nNeural Networks\nClimate Change ML Projects\nCOVID-19 Vulnerabilities"
+    "text": "Currently a Data Science and Analytics master’s student at Georgetown University, far away from my home base of California.\nMy immediate academic interests are telling stories with data, especially as they pertain to the environment, public policy, and the endless world of text data.\nPrior to graduate school and my time in DC, I developed a love of climate work (plus skiing and climbing) at Dartmouth College.\nI’m currently looking for work in the climate space - trying to use my technical analysis, model building, and writing/presenting skills to make the world a better place.\nHere’s a resume\n \nCheck out some of my projects below!\n\nAbout Me\nReading List\nHonors Thesis - Groundwater\nMassive Data Institute\nReddit Sentiment Analysis\nPredicting Cherry Blossoms\nFraudulent News Detection\nClimate Change Time Series Projects\nNeural Networks\nClimate Change ML Projects\nCOVID-19 Vulnerabilities"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "So you want more information:\nI’m Elise Rust and I plan to finish my MS in Data Science from Georgetown in Spring 2023 after completing my undergrad in Economics and Data Science from Dartmouth College in 2021. Academically and professionally, my goal is to use data science to do good in the world - whether that’s addressing the climate crisis or identifying vulnerable communities for educational funding or investigating hate speech/fraudulent text on social media. Whether it’s using statistical analysis, machine learning, natural language processing, or spatial reasoning I find great joy in taking data science problems of all types through the entire data science lifecycle. I love being able to explore the data behind these problems in order to generate meaningful and defensible change - and delivering complex solutions in concise and accessible ways to move that needle is where my greatest strengths lie.\nOutside of Data Science I love being outside - skiing, biathlon, climbing, biking, backpacking, and roller blading, especially with friends, is the best part of life! Plus, I love a good book. \n\nFeel free to reach out if you have questions about any of this work or just wanna chat! \nEmail: eliserust@gmail.com"
+  },
+  {
+    "objectID": "thesis.html",
+    "href": "thesis.html",
+    "title": "Undergraduate Honors Thesis",
+    "section": "",
+    "text": "As part of my undergraduate major - Quantitative Social Sciences (QSS) - I wrote a culminating honors thesis examining groundwater well overdraft in California. Expanding on work I did as a Spatial Data Science intern for the Nature Conservancy in 2019, I was interested in the 6 million Californians who rely on wells that tap into groundwater below as their primary source of fresh water. As the water table in the state continues to lower, the risk of “overdraft” - or the wells going dry - increases for these residents.\nThus, the thesis takes an econometrics approach to examining correlations between socioeconomic and demographic characteristics of California residents - and their risk of “overdraft.” Data from the US Government, State governments, academic institutions, and nonprofits was scraped, cleaned, and examined using Python, R, and QGIS. A measure of overdraft was self-generated for this project, using well depth data and water table data after serious spatial interpolation took place.\nThe thesis can be read here:"
+  },
+  {
+    "objectID": "cherry_blossoms.html",
+    "href": "cherry_blossoms.html",
+    "title": "Predicting Bloom Date of Cherry Blossoms",
+    "section": "",
+    "text": "A team and I competed in George Mason University’s annual competition to predict the date of cherry blossom bloom in DC. Using statistical computing, decision trees, and econometrics in R, our poster is below."
+  },
+  {
+    "objectID": "fake_news.html",
+    "href": "fake_news.html",
+    "title": "Fraudulent News Detection",
+    "section": "",
+    "text": "Code can be found here:\nPoster:"
+  },
+  {
+    "objectID": "covid.html",
+    "href": "covid.html",
+    "title": "COVID-19 Vulnerability",
+    "section": "",
+    "text": "As part of my Probabilistic Modeling and Statistical Computing course in R for my masters degree, a group and I employed conditional probability models, hypothesis testing, and multivariate regression analysis to examine inequality in risk and exposure to COVID nationwide, with special focus on college campuses and prisons. As part of the study, we sought to ask:\n1) Do people in America face different risk profiles in contracting COVID-19 based on their location?  2) Are some subsets of the American population more susceptible? Are some subsets better equipped to avoid contracting COVID-19?  3) What factors influence this risk? \nThe primary risk factors examined were population size, mask usage, and political leaning.\nCode is at the bottom of the report, and hosted here."
+  },
+  {
+    "objectID": "nn.html",
+    "href": "nn.html",
+    "title": "Neural Networks",
+    "section": "",
+    "text": "As part of a class in Neural Networks, my team and I built a recurrent neural network (RNN) from scratch as part of a comparative analysis with traditional ML methods in classifying derby winners.\nUsing data scraped from a weather API, Equiibase’s race history statistics PDFs, and from Kaggle’s Big Data Derby Competition, we employed NLP data pre-processing to prepare for modeling. Feature importance and hyper parameter tuning were used to gain insight into the data and tune the models.\nAn ANN model that processed numerical, categorical, and text data was built to predict the target variables using the Keras functional API. Different input layers were specified for different data types. Embedding was performed for all categorical features; the dimensions were specified via the rule of thumb of taking the minimum number of fifty and the number of categories divided by two. Then, the embeddings for all categorical features were concatenated. The text sequences for each observation were tokenized, padded, and fed to the input layer. After that, we created embeddings for the text data input and processed them by RNN layers, such as the LSTM. Numerical variables were fed to a dense layer. A concatenation layer was created to combine all outputs from above. More dense layers were built to provide more non-linearity to the model.\nCode"
+  },
+  {
+    "objectID": "mdi.html",
+    "href": "mdi.html",
+    "title": "Massive Data Institute",
+    "section": "",
+    "text": "For much of my time at Georgetown, I have worked at the Massive Data Institute at the McCourt School of Public Policy, on their Environmental Impact Data Collaborative Team. The EIDC works with researchers in government, academia, and industry to solve climate problems using massive data to identify the most at risk communities who may be eligible for climate funding.\nOne of my major projects was building a tool to move data between geographic scales (i.e. congressional districts to counties). When dealing with digital shapefiles that come in bizarre and gerrymandered shapes, many nonprofits and academics need to subdivide or join data according to new shape boundaries. To do this, we developed a tool in Python that can intake data at one geographic scale, calculate the population density weighted partitions of one spatial unit, and output the data at a new geographic scale.\nThe original article outlinining this can be found here: MDI’s Spatial Toolkit\nUse cases:\n\nMoving between counties and congressional districts when calculating Green Jobs in California\nMoving between water utility districts and census tracts to identify communities who could receive funding to address unsafe drinking water"
   }
 ]

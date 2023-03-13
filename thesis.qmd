@@ -10,5 +10,4 @@ Thus, the thesis takes an econometrics approach to examining correlations betwee
 
 The thesis can be read [here](https://docs.google.com/document/d/1egQ44h7bOQRpSskoJicEUNaAT5bi_h3ORHLH2K7Tkok/edit?usp=sharing):
 
-
 ![](thesis.png){width="100%"}

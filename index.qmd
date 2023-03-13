@@ -15,19 +15,18 @@ I'm currently looking for work in the climate space - trying to use my technical
 
 Here's a [resume](https://docs.google.com/document/d/1MFYSplOitF6I4DpnSNfqjAgMBYPJxKB7_zJo1x6wu7o/edit?usp=sharing)
 
-[![](github.png)](https://github.com/eliserust){width="1%"}
-[![](linkedin.png)](https://www.linkedin.com/in/eliserust/)
+[![](github.png)](https://github.com/eliserust){width="1%"} [![](linkedin.png)](https://www.linkedin.com/in/eliserust/)
 
 Check out some of my projects below!
 
 -   [About Me](aboutme.html)
 -   [Reading List](reading.html)
 -   [Honors Thesis - Groundwater](thesis.html)
+-   [Massive Data Institute](mdi.html)
 -   [Reddit Sentiment Analysis](https://gu-anly502.github.io/fall-2022-reddit-big-data-project-project-group-27/index.html)
 -   [Predicting Cherry Blossoms](cherry_blossoms.html)
 -   [Fraudulent News Detection](fake_news.html)
--   [Climate Change Time Series Projects](https://erust.georgetown.domains/ANLY560/_site/)
+-   [Climate Change Time Series Projects](https://erust.georgetown.domains/ANLY560/_site/introduction.html)
 -   [Neural Networks](nn.html)
 -   [Climate Change ML Projects](http://erust.georgetown.domains/ANLY501/Introduction.html)
 -   [COVID-19 Vulnerabilities](covid.html)
-

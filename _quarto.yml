@@ -16,13 +16,15 @@ website:
         text: Reading List
       - href: thesis.qmd
         text: Undergraduate Thesis
+      - href: mdi.qmd
+        text: Massive Data Institute
       - href: https://gu-anly502.github.io/fall-2022-reddit-big-data-project-project-group-27/index.html
         text: Reddit Sentiment Analysis
       - href: cherry_blossoms.qmd
         text: Cherry Blossoms
       - href: fake_news.qmd
         text: Fake News Detection
-      - href: https://erust.georgetown.domains/ANLY560/_site/
+      - href: https://erust.georgetown.domains/ANLY560/_site/introduction.html
         text: Climate Time Series Project
       - href: nn.qmd
         text: Neural Networks Project

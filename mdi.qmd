@@ -1,0 +1,17 @@
+![](Georgetown-Header.png){width="100%"}
+
+---
+title: "Massive Data Institute"
+subtitle: "At the McCourt School of Public Policy"
+---
+
+For much of my time at Georgetown, I have worked at the [Massive Data Institute](https://mdi.georgetown.edu/) at the McCourt School of Public Policy, on their Environmental Impact Data Collaborative Team. The EIDC works with researchers in government, academia, and industry to solve climate problems using *massive data* to identify the most at risk communities who may be eligible for climate funding. 
+
+One of my major projects was building a tool to move data between geographic scales (i.e. congressional districts to counties). When dealing with digital shapefiles that come in bizarre and gerrymandered shapes, many nonprofits and academics need to subdivide or join data according to new shape boundaries. To do this, we developed a tool in Python that can intake data at one geographic scale, calculate the population density weighted partitions of one spatial unit, and output the data at a new geographic scale.
+
+The original article outlinining this can be found here: [MDI's Spatial Toolkit](https://mdi.georgetown.edu/featured-research/mdis-spatial-data-toolkit-critical-to-identify-communities-vulnerable-to-impacts-of-climate-change-and-environmental-injustice/)
+
+Use cases: 
+
+1) [Moving between counties and congressional districts when calculating Green Jobs in California](https://mdi.georgetown.edu/featured-research/green-jobs-and-the-redistricting-problem-using-spatial-data-aggregation/)
+2) [Moving between water utility districts and census tracts to identify communities who could receive funding to address unsafe drinking water](https://www.policyinnovation.org/blog/leveraging-spatial-data-to-identify-communities-in-need-of-funding-to-provide-safe-drinking-water) 

@@ -8,4 +8,6 @@ Code can be found [here:](https://github.com/eliserust/Fraudulent-Text-Detection
 
 Poster:
 
-![](fake_news.png)
+<iframe src="fake_news.pdf" title="Fraudulent Text Detection in NLP" width="1000" height="900">
+
+</iframe>

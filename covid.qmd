@@ -1,5 +1,17 @@
 ![](dartmouth.jpg){width="100%"}
 
 ---
-title: "covid"
+title: "COVID-19 Vulnerability"
 ---
+
+As part of my Probabilistic Modeling and Statistical Computing course in R for my masters degree, a group and I employed conditional probability models, hypothesis testing, and multivariate regression analysis to examine inequality in risk and exposure to COVID nationwide, with special focus on college campuses and prisons. As part of the study, we sought to ask:
+
+*1) Do people in America face different risk profiles in contracting COVID-19 based on their location?* <br> *2) Are some subsets of the American population more susceptible? Are some subsets better equipped to avoid contracting COVID-19?* <br> *3) What factors influence this risk?* <br>
+
+The primary risk factors examined were **population size, mask usage, and political leaning**.
+
+Code is at the bottom of the report, and hosted [here](https://github.com/eliserust/GU-ANLY511-FinalProject).
+
+<iframe src="511_Final_Report.pdf" title="COVID-19 Vulnerability" width="1000" height="900">
+
+</iframe>
