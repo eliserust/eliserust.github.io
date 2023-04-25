@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mdi.qmd" class="sidebar-item-text sidebar-link">Massive Data Institute</a>
+  <a href="./mdi.html" class="sidebar-item-text sidebar-link">Massive Data Institute</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -180,9 +180,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p><img src="dartmouth.jpg" class="img-fluid" style="width:100.0%"></p>
-<p>As part of a class in Neural Networks, my team and I built a recurrent neural network (RNN) from scratch as part of a comparative analysis with traditional ML methods in classifying derby winners.</p>
+<p>As part of a class in Neural Networks, my team and I built an artificial neural network (ANN) from scratch as part of a comparative analysis with traditional ML methods in classifying derby winners.</p>
 <p>Using data scraped from a <a href="https://www.visualcrossing.com/weather-api">weather API</a>, <a href="https://www.equibase.com/premium/eqbRaceChartCalendar.cfm?SAP=TN">Equiibase’s</a> race history statistics PDFs, and from <a href="https://www.kaggle.com/competitions/big-data-derby-2022/data">Kaggle’s Big Data Derby Competition</a>, we employed NLP data pre-processing to prepare for modeling. Feature importance and hyper parameter tuning were used to gain insight into the data and tune the models.</p>
-<p>An ANN model that processed numerical, categorical, and text data was built to predict the target variables using the Keras functional API. Different input layers were specified for different data types. Embedding was performed for all categorical features; the dimensions were specified via the rule of thumb of taking the minimum number of fifty and the number of categories divided by two. Then, the embeddings for all categorical features were concatenated. The text sequences for each observation were tokenized, padded, and fed to the input layer. After that, we created embeddings for the text data input and processed them by RNN layers, such as the LSTM. Numerical variables were fed to a dense layer. A concatenation layer was created to combine all outputs from above. More dense layers were built to provide more non-linearity to the model.</p>
+<p>An ANN model that processed numerical, categorical, and text data was built to predict the target variables using the Keras functional API. Different input layers were specified for different data types. Embedding was performed for all categorical features; the dimensions were specified via the rule of thumb of taking the minimum number of fifty and the number of categories divided by two. Then, the embeddings for all categorical features were concatenated. The text sequences for each observation were tokenized, padded, and fed to the input layer. After that, we created embeddings for the text data input and processed them with RNN layers, such as the LSTM. Numerical variables were fed to a dense layer. A concatenation layer was created to combine all outputs from above. More dense layers were built to provide more non-linearity to the model.</p>
 <p><a href="https://github.com/Clara-Richter/590-Group-Project">Code</a></p>
 <iframe src="derby.pdf" title="NN_Derby_Presentation" width="1000" height="900">
 </iframe>
