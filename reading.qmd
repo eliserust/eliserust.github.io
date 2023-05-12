@@ -4,10 +4,10 @@
 title: "What I'm Reading"
 ---
 
-2022 Books:
+Bookshelf
 
 |                                                       |                                          |                                                |
-|:-----------------------------------------------------:|:----------------------------------------:|:----------------------------------------------:|
+|:-------------------------:|:-------------------:|:----------------------:|
 |        ![](books/beingmortal.jpg){width="195"}        | ![](books/surveillance.jpg){width="189"} |       ![](books/desert.jpg){width="184"}       |
 | ![](books/theoverstory.jpg){width="194" height="216"} |  ![](books/uglytruth.jpg){width="161"}   | ![](books/three-body-problem.jpg){width="156"} |
 |      ![](books/thousandbrains.jpg){width="159"}       | ![](books/beingmortal.jpg){width="166"}  | ![](books/BraidingSweetgras.jpg){width="160"}  |
