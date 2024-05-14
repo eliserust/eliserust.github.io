@@ -1,4 +1,4 @@
-![](dartmouth.jpg){width="100%"}
+![](docs/dartmouth.jpg)
 
 ---
 title: "About Me"
@@ -6,12 +6,14 @@ title: "About Me"
 
 <br>
 
-I'm Elise Rust and I plan to finish my MS in Data Science from Georgetown in Spring 2023 after completing my undergrad in [Economics](https://economics.dartmouth.edu/) and [Quantitative Social Science](https://qss.dartmouth.edu/) from Dartmouth College in 2021. Academically and professionally, my goal is to use data science to do good in the world - whether that's addressing the climate crisis or identifying vulnerable communities for educational funding or investigating hate speech/fraudulent text on social media. Whether it's using statistical analysis, machine learning, natural language processing, or spatial reasoning I find great joy in taking data science problems of all types through the entire data science lifecycle. I love being able to explore the data behind these problems in order to generate meaningful and defensible change - and delivering complex solutions in concise and accessible ways to move that needle is where my greatest strengths lie.
+I currently work with Boeing's Global Services applying classical and cutting edge machine learning techniques to aircraft health analysis. My work is largely with the United States' military, using predictive analytics to keep our fleets and active service members mission ready.
+
+I completed my MS in Data Science from Georgetown in Spring 2023 after completing my BA in [Economics](https://economics.dartmouth.edu/) and [Quantitative Social Science](https://qss.dartmouth.edu/) from Dartmouth College in 2021. Academically and professionally, my goal is to use data science to do good in the world - whether that's keeping aircrafts safe, identifying vulnerable communities for climate funding, or investigating hate speech/fraudulent text on social media.
+
+I love being able to explore the data behind these problems in order to generate meaningful and defensible change - and delivering complex solutions in concise and accessible ways to move that needle is where my greatest strengths lie.
 
 Outside of Data Science I love being outside - skiing, biathlon, climbing, biking, backpacking, and roller blading, especially with friends, is the best part of life! Plus, I love a [good book](reading.html). <br>
 
-![](me.png){width="50%"}
-
-Feel free to reach out if you have questions about any of this work or just wanna chat! <br>
+Feel free to reach out if you have questions about any of this work or just wanna chat. <br>
 
 Email: *eliserust\[at\]gmail.com*
